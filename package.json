@@ -1,15 +1,15 @@
 {
-  "name": "Lab07 - Middleware",
+  "name": "Lab07-Middleware",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.17.0"
   }
 }
