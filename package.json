@@ -1,0 +1,18 @@
+{
+  "name": "Lab07-Middleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest --verbose --coverage --color"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.0",
+    "jest": "^24.8.0",
+    "supertest": "^4.0.2"
+  }
+}
